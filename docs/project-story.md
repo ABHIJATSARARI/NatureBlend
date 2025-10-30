@@ -3,6 +3,7 @@
 ## Inspiration
 NatureBlend was inspired by the growing demand for sustainable and eco-friendly products in today's consumer market. We noticed a disconnect between environmentally conscious consumers and vendors offering natural products. Our goal was to create a platform that bridges this gap, making it easier for people to discover and purchase products that align with their values.
 
+
 ## What it does
 NatureBlend is a dual-interface mobile application that connects consumers with vendors of natural, organic, and sustainable products. For customers, it offers an intuitive shopping experience with features like product exploration, cart management, checkout, and order tracking. For vendors, it provides a comprehensive dashboard to list products, manage orders, track analytics, and handle payments.
 

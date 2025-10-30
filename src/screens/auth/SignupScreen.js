@@ -16,6 +16,7 @@ import { Ionicons } from '@expo/vector-icons';
 // Import theme
 import theme from '../../constants/theme';
 
+
 const SignupScreen = ({ navigation, route }) => {
   const { userType } = route.params || { userType: 'customer' };
   

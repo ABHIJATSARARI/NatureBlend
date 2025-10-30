@@ -16,6 +16,7 @@ import { Ionicons } from '@expo/vector-icons';
 // Import theme
 import theme from '../../constants/theme';
 
+
 // Dummy user data
 const userData = {
   id: 'user123',

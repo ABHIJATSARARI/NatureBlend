@@ -4,6 +4,7 @@
 
 NatureBlend is designed as a dual-role mobile application serving both customers and vendors in the wellness marketplace. The application follows a modular architecture pattern with clear separation of concerns, making it maintainable, scalable, and easy to extend with new features.
 
+
 ## Architectural Layers
 
 ### 1. Presentation Layer

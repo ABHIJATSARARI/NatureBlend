@@ -15,6 +15,7 @@ import { Ionicons } from '@expo/vector-icons';
 
 import theme from '../../constants/theme';
 
+
 // Mock order data - in a real app, this would come from an API
 const ORDER_DETAILS = {
   id: 'NB123456',

@@ -14,6 +14,7 @@ import { Ionicons } from '@expo/vector-icons';
 // Import theme
 import theme from '../../constants/theme';
 
+
 const { width } = Dimensions.get('window');
 
 // Dummy data for prototype

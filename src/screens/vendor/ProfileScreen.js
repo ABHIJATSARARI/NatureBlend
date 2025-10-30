@@ -17,6 +17,7 @@ import { Ionicons } from '@expo/vector-icons';
 
 import theme from '../../constants/theme';
 
+
 // Mock vendor profile data
 const VENDOR_PROFILE = {
   id: 'V001',

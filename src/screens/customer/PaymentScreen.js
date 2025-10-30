@@ -15,6 +15,7 @@ import { Ionicons } from '@expo/vector-icons';
 
 import theme from '../../constants/theme';
 
+
 const PaymentScreen = ({ route, navigation }) => {
   const { totalAmount = 78.96 } = route.params || {};
   

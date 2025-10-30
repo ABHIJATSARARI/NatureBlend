@@ -29,6 +29,7 @@ We follow conventional commit messages:
 
 Example: `feat: Add vendor analytics dashboard`
 
+
 ## Submitting Changes
 
 1. Push your changes to your fork

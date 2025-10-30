@@ -17,6 +17,7 @@ import { Ionicons } from '@expo/vector-icons';
 // Import theme
 import theme from '../../constants/theme';
 
+
 // Mock data for wallet balance and transactions
 const WALLET_DATA = {
   balance: 245.75,

@@ -10,6 +10,7 @@ const theme = {
     secondary: '#49a578',     // Secondary green for the vendor app
     accent: '#ff7d4d',        // Orange accent color for CTAs and highlights
     
+    
     // UI colors
     background: '#F9FAFB',    // Light background for screens
     card: '#FFFFFF',          // Card backgrounds

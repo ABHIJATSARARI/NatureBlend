@@ -11,6 +11,7 @@ const Stack = createNativeStackNavigator();
 const AuthNavigator = ({ route }) => {
   const { userType } = route.params || { userType: 'customer' };
 
+  
   return (
     <Stack.Navigator
       screenOptions={{

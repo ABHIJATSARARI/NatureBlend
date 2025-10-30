@@ -14,6 +14,7 @@ import { Ionicons } from '@expo/vector-icons';
 
 import theme from '../../constants/theme';
 
+
 // Mock transaction data
 const TRANSACTIONS = [
   {

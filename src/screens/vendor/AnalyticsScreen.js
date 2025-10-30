@@ -13,6 +13,7 @@ const AnalyticsScreen = () => {
     })),
   };
 
+  
   return (
     <View>
       <Text>Analytics Screen</Text>

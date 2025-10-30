@@ -16,6 +16,7 @@ import { Ionicons } from '@expo/vector-icons';
 
 import theme from '../../constants/theme';
 
+
 // Mock data for vendor products
 const PRODUCTS_DATA = [
   {

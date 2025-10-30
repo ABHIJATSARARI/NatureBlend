@@ -11,6 +11,7 @@ import VendorNavigator from './VendorNavigator';
 import UserTypeScreen from '../screens/UserTypeScreen';
 import SplashScreen from '../screens/SplashScreen';
 
+
 const Stack = createNativeStackNavigator();
 
 const AppNavigator = () => {

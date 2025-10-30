@@ -13,6 +13,7 @@ LogBox.ignoreLogs([
   'ColorPropType will be removed',
 ]);
 
+
 // Keep the splash screen visible while we initialize the app
 SplashScreen.preventAutoHideAsync();
 

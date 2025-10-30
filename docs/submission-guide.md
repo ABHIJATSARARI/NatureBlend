@@ -6,6 +6,7 @@ This document provides instructions for preparing the final submission materials
 
 ### Required Screenshots
 
+
 #### Customer App
 
 1. **User Onboarding**
